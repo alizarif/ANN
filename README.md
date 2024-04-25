@@ -1,2 +1,2 @@
-# ann
+# ANN
 Approximate Nearest Neighbors Algorithms
