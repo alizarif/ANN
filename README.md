@@ -15,7 +15,7 @@ This code provides a process for extracting text from PDF files, preprocessing t
 ## Example Workflow
 The script processes specified PDF files to find nearest neighbors of a target word using selected NLP models. Results are saved and summarized in Excel format, making it easy to review and analyze the output.
 
-## Dependencies
-Make sure to install the required libraries using:
+## Requirements
+Make sure to install the required libraries:
 ```bash
 pip install numpy torch PyPDF2 nltk faiss-cpu hnswlib annoy pandas transformers
