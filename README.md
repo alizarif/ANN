@@ -20,4 +20,10 @@ pip install numpy torch PyPDF2 nltk faiss-cpu hnswlib annoy pandas transformers
 
 This code is part of a larger project about LLMs and AI Agents. If you do make use of it, I'd appreciate a citation:
 
-Zarifhonarvar, Ali (2024). "Experimental Evidence on Large Language Models." Available at SSRN: [[https://ssrn.com/abstract=XXXXXX](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810389)]([https://ssrn.com/abstract=XXXXXX](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810389)).
+@article{zarifLLM2024,
+  title={Experimental Evidence on Large Language Models},
+  author={Zarifhonarvar, Ali},
+  journal={SSRN},
+  year={2024},
+  note={Available at SSRN: \url{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810389}}
+}
