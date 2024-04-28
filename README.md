@@ -16,6 +16,7 @@ This code provides a process for extracting text from PDF files, preprocessing t
 Make sure to install the required libraries:
 ```bash
 pip install numpy torch PyPDF2 nltk faiss-cpu hnswlib annoy pandas transformers
+```
 
 This code is part of a larger project about LLMs and AI Agents. If you do make use of it, I'd appreciate a citation:
 
