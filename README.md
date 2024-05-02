@@ -18,15 +18,4 @@ Make sure to install the required libraries:
 pip install numpy torch PyPDF2 nltk faiss-cpu hnswlib annoy pandas transformers
 ```
 
-This code is part of a larger project about LLMs and AI Agents. If you do make use of it, I'd appreciate a citation:
-
-
-```bash
-@article{zarifLLM2024,
-  title={Experimental Evidence on Large Language Models},
-  author={Zarifhonarvar, Ali},
-  journal={SSRN},
-  year={2024},
-  note={Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4810389}
-}
-```
+This code is part of a larger project about LLMs and AI Agents. 
